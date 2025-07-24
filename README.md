@@ -12,6 +12,10 @@
 
 Ex3ploit is a fast, multithreaded vulnerability finder tool that injects payloads into URLs from a custom wordlist to detect possible security flaws. Ideal for pentesters and bug bounty hunters looking for quick and reliable testing.
 
+<img width="1479" height="759" alt="Screenshot From 2025-07-24 09-10-11" src="https://github.com/user-attachments/assets/d332fa96-e397-4c1f-9cdc-0873e93e4573" />
+
+
+Created with ❤️ by Pr3fessorV3rus
 ---
 
 ## Demo
@@ -36,14 +40,3 @@ Ex3ploit is a fast, multithreaded vulnerability finder tool that injects payload
 git clone https://github.com/MASTERMONTYOFFICIAL/Ex3ploit.git
 cd Ex3ploit
 pip install requests
-```
----
-
-## Disclaimer
-This tool is intended strictly for authorized security testing and educational purposes. Unauthorized use is prohibited.
-https://github.com/user-attachments/assets/40a514df-356f-4567-83f7-bbed044f4574
-
----
-
-Created with ❤️ by Pr3fessorV3rus
-
