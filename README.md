@@ -15,12 +15,15 @@ Ex3ploit is a fast, multithreaded vulnerability finder tool that injects payload
 <img width="1479" height="759" alt="Screenshot From 2025-07-24 09-10-11" src="https://github.com/user-attachments/assets/d332fa96-e397-4c1f-9cdc-0873e93e4573" />
 
 
-Created with ❤️ by Pr3fessorV3rus
+Created by ❤️ Pr3fessorV3rus
 ---
 
-## Demo
+## 
 
-![Ex3ploit Demo](https://raw.githubusercontent.com/MASTERMONTYOFFICIAL/Ex3ploit/main/assets/demo.gif)
+Here’s what Ex3ploit looks like in action — watch it go! 🚀  
+(Warning: May cause sudden urges to pentest everything 🤓)
+
+![Ex3ploit GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWp6NDBtZGlrZ2tjM2M1MjZjZ3VkYWE3OGZza3VyejVicjJyeXpsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)
 
 ---
 
