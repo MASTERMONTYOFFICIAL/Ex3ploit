@@ -40,3 +40,4 @@ Created with ❤️ by Pr3fessorV3rus
 git clone https://github.com/MASTERMONTYOFFICIAL/Ex3ploit.git
 cd Ex3ploit
 pip install requests
+python3 exploit.py
